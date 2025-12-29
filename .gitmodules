@@ -1,0 +1,9 @@
+[submodule "raylib-gizmo"]
+	path = raylib-gizmo
+	url = https://github.com/cloudofoz/raylib-gizmo.git
+[submodule "src/raylib-gizmo"]
+	path = src/raylib-gizmo
+	url = https://github.com/cloudofoz/raylib-gizmo.git
+[submodule "third-party/raylib-jai"]
+	path = third-party/raylib-jai
+	url = https://github.com/ahmedqarmout2/raylib-jai.git

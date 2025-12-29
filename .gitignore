@@ -1,0 +1,7 @@
+raygizmo/lib
+raygizmo/module.jai
+
+01_getting_started
+02_gizmo_types
+03_render_targets
+.build
