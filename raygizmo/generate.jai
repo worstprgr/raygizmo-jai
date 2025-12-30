@@ -54,7 +54,7 @@ LIB :: "lib/raygizmo";
     set_build_options(options, w);
     make_directory_if_it_does_not_exist("lib");
 
-    if !file_exists(LIB) {
+    if !file_exists(tprint("%.a", LIB)) {
         log("Building lib ...");
         if !build_lib() return;
     }
